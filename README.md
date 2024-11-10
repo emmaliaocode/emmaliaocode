@@ -14,6 +14,7 @@
 
 #### Infrastructure
 - [vagrant-vmware-arm](https://github.com/emmaliaocode/vagrant-vmware-arm)
+- [terraform-tutorial](https://github.com/emmaliaocode/terraform-tutorial)
 
 <!--
 **emmaliaocode/emmaliaocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
